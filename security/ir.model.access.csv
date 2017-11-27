@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_namche_namche,namche.namche,model_namche_namche,,1,0,0,0
